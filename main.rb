@@ -1,2 +1,5 @@
 #w06 d05
-p "Hello"
+def hello
+  p "hello"
+  p "goodbye"
+end  
